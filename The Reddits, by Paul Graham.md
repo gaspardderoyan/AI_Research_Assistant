@@ -1,7 +1,6 @@
-# The Reddits
-by Paul Graham
+# The Reddits by Paul Graham
 
-## March 2024
+March 2024
 
 I met the Reddits before we even started Y Combinator. In fact they were one of the reasons we started it.
 
