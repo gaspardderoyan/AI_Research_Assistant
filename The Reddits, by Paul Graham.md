@@ -1,4 +1,5 @@
-# The Reddits, by Paul Graham
+# The Reddits
+by Paul Graham
 
 ## March 2024
 
